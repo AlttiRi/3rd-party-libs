@@ -21,6 +21,8 @@ Original `integrity`.
 ---
 
 [`vue.runtime.global.prod.js`](https://alttiri.github.io/3rd-party-libs/vue-3.2.6/vue.runtime.global.prod.js) 
+and 
+[`vue.runtime.global.js`](https://alttiri.github.io/3rd-party-libs/vue-3.2.6/vue.runtime.global.js) 
 - from NPM
 - instead of dead https://cdn.jsdelivr.net/npm/vue@next/dist/vue.runtime.global.prod.js 
 - for https://github.com/alttiri/formatted-number-vue3/
