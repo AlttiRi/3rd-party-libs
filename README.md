@@ -1,4 +1,4 @@
-# 3rd-party-libs
+# [3rd-party-libs](https://github.com/AlttiRi/3rd-party-libs)
 
 3rd-party libraries for GitHub Pages.
 
